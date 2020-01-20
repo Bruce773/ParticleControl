@@ -16,7 +16,7 @@ export const HomeScreen: React.FC = () => {
           setActive(!active);
         }}
       >
-        <ButtonText>Touchable!</ButtonText>
+        <ButtonText>{active ? "Deactivate" : "Activate"}</ButtonText>
       </LargeButton>
     </>
   );
