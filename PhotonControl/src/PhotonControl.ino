@@ -1,7 +1,7 @@
 /*
  * Project PhotonControl
  * Description:
- * Author:
+ * Author: Bruce Johnson
  * Date:
  */
 

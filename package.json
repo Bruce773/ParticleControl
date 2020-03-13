@@ -8,11 +8,16 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@react-native-community/push-notification-ios": "^1.0.6",
     "expo": "~36.0.0",
-    "react": "~16.9.0",
-    "react-dom": "~16.9.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-native": "^0.61.5",
+    "react-native-haptic-feedback": "^1.9.0",
     "react-native-screens": "2.0.0-alpha.12",
+    "react-native-swift": "^1.2.2",
+    "react-native-track-player": "^1.2.2",
+    "react-native-video": "^4.4.5",
     "react-native-web": "~0.11.7",
     "styled-components": "^5.0.0"
   },
@@ -20,6 +25,7 @@
     "@babel/core": "^7.0.0",
     "@types/react": "~16.9.0",
     "@types/react-native": "~0.60.23",
+    "@types/react-native-video": "^5.0.1",
     "babel-preset-expo": "~8.0.0",
     "typescript": "~3.6.3"
   },
